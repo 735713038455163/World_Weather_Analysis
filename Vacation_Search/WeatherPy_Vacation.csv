@@ -1,0 +1,93 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+3,Bredasdorp,ZA,50.29,few clouds,-34.5322,20.0403,Bredasdorp Country Manor
+5,Hermanus,ZA,54.9,scattered clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+6,Cape Town,ZA,57.27,few clouds,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+7,Nikolskoye,RU,50.4,clear sky,59.7035,30.7861,Tourist House - Sablino
+10,Port Lincoln,AU,52.25,broken clouds,-34.7333,135.8667,Port Lincoln Hotel
+12,New Norfolk,AU,53.74,scattered clouds,-42.7826,147.0587,The Shingles Riverside Cottages
+15,Constitucion,CL,59.11,clear sky,-35.3333,-72.4167,Hotel Boutique Las Azucenas
+32,Port Macquarie,AU,57.16,overcast clouds,-31.4333,152.9167,Rydges Port Macquarie
+38,Dali,CN,59.81,scattered clouds,25.7,100.1833,Dali Travelling With Hostel
+41,Hobart,AU,54.1,overcast clouds,-42.8794,147.3294,Mantra on Collins Hobart
+42,Komsomolskiy,UZ,57.92,broken clouds,40.4272,71.7189,Ikathouse
+53,Rocha,UY,56.7,few clouds,-34.4833,-54.3333,Beleza Pura B&B
+55,Mildura,AU,50.07,clear sky,-34.2,142.15,Mercure Hotel Mildura
+58,Port Elizabeth,ZA,57.09,few clouds,-33.918,25.5701,39 On Nile Guest House
+69,Port Alfred,ZA,56.8,light rain,-33.5906,26.891,The Halyards Hotel
+92,Port Hardy,CA,51.98,light rain,50.6996,-127.4199,Airport Inn
+104,Pocatky,CZ,57.24,few clouds,49.2602,15.2402,Resort Svata Katerina
+106,Mar Del Plata,AR,55.42,clear sky,-38.0023,-57.5575,Gran Hotel Mar del Plata
+107,Yulara,AU,55.24,clear sky,-25.2406,130.9889,Desert Gardens Hotel - Ayers Rock Resort
+109,Ancud,CL,51.33,overcast clouds,-41.8697,-73.8203,Hotel Arena Gruesa
+119,Korla,CN,50.27,clear sky,41.7597,86.1469,Gulisitan Hotel
+127,Yellowknife,CA,52.41,few clouds,62.456,-114.3525,The Explorer Hotel
+129,Vestmannaeyjar,IS,50.99,scattered clouds,63.4427,-20.2734,Glamping & Camping
+143,Bridlington,GB,55.89,clear sky,54.0831,-0.1919,Expanse Bridlington Seafront Hotel
+144,Kristiansund,NO,54.25,light rain,63.1115,7.732,Thon Hotels Storgata
+158,Argentan,FR,51.57,clear sky,48.75,-0.0167,Hostellerie De La Renaissance
+160,Mehamn,NO,51.75,few clouds,71.0357,27.8492,Mehamn Arctic Hotel AS
+165,Dejen,ET,54.86,light rain,10.1667,38.1333,MAFLAB International Hotel
+169,Tsabong,BW,58.91,clear sky,-26.0217,22.401,Springbok Motel
+185,Delfzijl,NL,54.03,overcast clouds,53.33,6.9181,Eemshotel
+186,Campbell River,CA,55.26,scattered clouds,50.0163,-125.2446,Ramada by Wyndham Campbell River
+191,Dragutesti,RO,50.47,clear sky,44.9667,23.2333,Pensiunea Izana
+212,Ventspils,LV,55.33,clear sky,57.3894,21.5606,Jūras brīze
+215,Coihaique,CL,53.55,light intensity shower rain,-45.5752,-72.0662,Diego De Almagro Coyhaique
+236,Nesna,NO,59.41,light rain,66.1967,13.0213,Havblikk Helgeland AS
+244,East London,ZA,56.34,light rain,-33.0153,27.9116,Tu Casa
+250,Airai,TL,59.22,few clouds,-8.9266,125.4092,Juvinal Martin
+256,Ballina,AU,56.79,scattered clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+264,Athabasca,CA,55.92,overcast clouds,54.7169,-113.2854,Athabasca Lodge Motel
+279,Lakes Entrance,AU,56.57,overcast clouds,-37.8811,147.981,The Esplanade Resort & Spa
+284,Margate,GB,56.03,clear sky,51.3813,1.3862,Premier Inn Margate hotel
+288,Vila,PT,50.94,clear sky,42.0304,-8.1588,Hotel Castrum Villae by Walk Hotels
+290,Bambanglipuro,ID,58.6,broken clouds,-7.95,110.2833,Puri Brata
+321,Christchurch,NZ,51.03,moderate rain,-43.5333,172.6333,The George
+341,Lebu,CL,52.74,clear sky,-37.6167,-73.65,Hostal Las Lilas
+351,Kruisfontein,ZA,54.88,overcast clouds,-34.0033,24.7314,Oyster Bay House Rental
+359,Setermoen,NO,53.56,light rain,68.861,18.3486,Room4You
+372,Saldanha,ZA,56.28,clear sky,-33.0117,17.9442,Blue Bay Lodge
+376,Keuruu,FI,51.98,overcast clouds,62.2667,24.7,Hostelli Nonna
+389,Aberdeen,GB,53.2,overcast clouds,57.1437,-2.0981,Premier Inn Aberdeen City Centre hotel
+396,Kropotkin,RU,57.07,light rain,45.4375,40.5756,Hotel Europe Kropotkin
+412,Terney,RU,57.85,light rain,45.0503,136.6092,"Hotel ""Ternay"""
+415,Berlevag,NO,51.8,clear sky,70.8578,29.0864,Kvitbrakka
+420,Muhos,FI,51.58,overcast clouds,64.808,25.9931,Montta - active camping / campsite Montan
+422,Leirvik,NO,57.63,overcast clouds,59.7798,5.5005,Stord Hotel
+429,Hella,NO,57.34,light rain,67.2,14.4333,Djupvatnet rasteplass
+440,Seddon,AU,56.28,few clouds,-37.8068,144.8916,Footscray Motor Inn
+448,Havoysund,NO,52.68,overcast clouds,70.9963,24.6622,Arctic View Glamping & Restaurant
+450,Petropavlovsk-Kamchatskiy,RU,50.59,scattered clouds,53.0452,158.6483,The Hotel Petropavlovsky
+451,Honningsvag,NO,51.33,broken clouds,70.9821,25.9704,Nordkapp Vandrerhjem
+459,Chapais,CA,56.98,clear sky,49.7834,-74.8492,Hôtel Opémiska
+460,Killybegs,IE,51.51,broken clouds,54.6333,-8.45,Tara Hotel
+461,Sundumbili,ZA,58.53,light rain,-29.1337,31.3975,The Plover Bed and Breakfast
+466,Shubarkuduk,KZ,50.38,overcast clouds,49.1447,56.4872,Sirius
+471,Great Yarmouth,GB,55.65,clear sky,52.6083,1.7305,Comfort Hotel Great Yarmouth
+472,Qax,AZ,54.59,overcast clouds,41.4225,46.9242,El Resort Hotel
+475,Colesberg,ZA,51.75,clear sky,-30.72,25.0972,Bhelekazi Guesthouse
+480,Bonavista,CA,59.0,broken clouds,48.6499,-53.1147,Abbott's Bed & Breakfast
+485,Kuressaare,EE,55.94,overcast clouds,58.2481,22.5039,Spa Hotel Rüütli
+490,Gol,NO,50.85,light rain,60.7014,8.9457,Pers Cottages
+495,Lillesand,NO,50.04,light rain,58.2488,8.3778,Lillesand Hotel Norway
+501,Lasa,IT,58.08,overcast clouds,46.6166,10.7002,Pension Feldgärtenhof
+510,Svetlyy,RU,55.45,overcast clouds,54.675,20.1347,"Gostinitsa-Kafe, Alena"
+520,Puerto Varas,CL,52.02,broken clouds,-41.3195,-72.9854,Hotel Solace Puerto Varas
+521,Hinton,CA,52.11,broken clouds,53.4001,-117.5857,Econo Lodge & Suites
+524,Port Hedland,AU,59.05,clear sky,-20.3167,118.5667,The Esplanade Hotel
+527,Shahrud,IR,58.8,clear sky,36.4182,54.9763,Royal Hotel
+544,Ostersund,SE,52.61,light rain,63.1792,14.6357,Best Western Hotel Gamla Teatern
+547,Asau,RO,50.76,clear sky,46.4333,26.4,Casa Mika Ciobanus
+553,Dawlatabad,AF,54.91,clear sky,36.4141,64.9053,WASIM ASGAR KHAN
+575,Olaine,LV,55.36,clear sky,56.7853,23.9381,"SIA Zemgales 29 , Hostelis"
+587,Aksu,CN,53.17,light rain,41.1231,80.2644,Pudong Holiday Hotel
+602,Peterhead,GB,53.11,overcast clouds,57.5058,-1.7981,Palace Hotel
+603,Sydney Mines,CA,59.25,overcast clouds,46.2367,-60.2177,At The Harbourfront B&B Inc
+613,Itum-Kale,RU,52.41,overcast clouds,42.7356,45.5758,Мини-отель ASTAR
+614,Costinesti,RO,54.72,scattered clouds,43.95,28.6333,Villa Mar Bella
+618,Andenes,NO,53.58,broken clouds,69.3143,16.1194,Hotell Marena
+633,Visnes,NO,57.58,scattered clouds,59.3556,5.2242,Park Inn Haugesund Airport
+645,Stornoway,GB,53.92,broken clouds,58.2093,-6.3865,Caladh Inn
+663,Port Augusta,AU,55.54,clear sky,-32.5,137.7667,Majestic Oasis Apartments
+679,Burnie,AU,53.92,light rain,-41.0667,145.9167,Beachfront Voyager Motor Inn
+684,Sorland,NO,53.67,light rain,67.667,12.6934,Sjybrygga fiskecamp
